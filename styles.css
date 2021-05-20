@@ -1,12 +1,14 @@
 .main{
     display:flex;
     margin:10px;
+    border:1px solid red;
 }
     /* Images */
 .images{
     width:50%;
     margin:50px;
     margin-top:80px;
+    border:1px solid blue;
 }
 
 .big,.small{
